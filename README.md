@@ -61,5 +61,5 @@
 <br/><br/>
 
 <hr/>
-
+  <img src="https://raw.githubusercontent.com/dulmina-jayaru/dulmina-jayaru/main/bg.png" alt="Dulmina Geeganage"/>
 <br/>
